@@ -1,4 +1,6 @@
-# Two-view-sparse-reconstruction
+# 3D-sparse-reconstruction
+
+### Two View Reconstruction
 
 - Reconstructed the scene being captured from a calibrated monocular camera.
 
